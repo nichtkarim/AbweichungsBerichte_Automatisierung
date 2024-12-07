@@ -98,5 +98,3 @@ Die CSV-Datei enthält folgende Spalten:
 Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
 ---
-
-Falls es weitere Fragen oder Probleme gibt, wenden Sie sich bitte an den Entwickler oder erstellen Sie ein Issue im GitHub-Repository (falls vorhanden).
